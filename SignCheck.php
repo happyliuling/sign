@@ -6,7 +6,7 @@
  * Time: 15:55
  */
 
-namespace common\components\internal;
+namespace liuling\sign;
 
 use Yii;
 use yii\base\Component;
