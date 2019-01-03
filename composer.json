@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "liuling\\sign\\": "src/"
+            "Liuling\\Sign\\": "src/"
         }
     }
 }

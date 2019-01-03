@@ -6,7 +6,7 @@
  * Time: 15:55
  */
 
-namespace common\components\internal;
+namespace Liuling\Sign;
 
 use Yii;
 use yii\base\Component;
@@ -15,7 +15,6 @@ use yii\base\InvalidConfigException;
 class SignCheck extends Component
 {
     public $secret = '';
-
     public function init()
     {
         parent::init();
