@@ -1,14 +1,14 @@
 {
-    "name": "liuling/sign",
-    "description": "sign check",
+    "name": "liuling/signa",
+    "description": "sign test",
     "authors": [
         {
-            "name": "happyliuling"
+            "name": "liuling",
+            "email": "liuling@shoplazza.com"
         }
     ],
-    "license": "MIT",
     "require": {
-        "php": ">=5.4"
+        "liuling/sign": "dev-master"
     },
     "autoload": {
         "psr-4": {
